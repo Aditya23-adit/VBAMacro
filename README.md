@@ -9,3 +9,5 @@ How to use CONVERT_A4_v1.5 :
 1. select the data to be converted (FW25_NQZ20_JQ1296_MCS_VB_ORIGINAL_CONVERT_A4)
 2. click convert
 3. save with xls format is better
+
+in the ReportInOut have code to select xls file
